@@ -1,0 +1,11 @@
+Define a function which can print a dictionary where the keys are numbers between 1 and 3 (both included) and the values are square of keys.
+
+def Dict():
+    d1=dict()
+    d1[1]=1
+    d1[2]=2**2
+    d1[3]=3**2
+    print (d1)
+
+Dict()
+

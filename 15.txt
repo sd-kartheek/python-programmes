@@ -1,0 +1,8 @@
+Define a function which can generate and print a list where the values are square of numbers between 1 and 20 (both included)
+
+def Dict():
+    a=dict()
+    for i in range(1,21):
+        a[i]=i**2
+        print(i)    
+Dict()

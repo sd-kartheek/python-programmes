@@ -1,0 +1,6 @@
+Define a function which can compute the sum of two numbers.
+
+def Function(number1, number2):
+    return number1+number2
+
+print (Function(4,7))
